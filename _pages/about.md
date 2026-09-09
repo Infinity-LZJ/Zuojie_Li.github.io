@@ -40,6 +40,10 @@ redirect_from:
 * 2026.04 北京师范大学研究生学术创新二等奖
 * 2026.06 第七届全国核化学与放射化学青年学术研讨会高质量墙报
 
+奖项荣誉
+======
+* 第79批博士后面上项目（2026M793877），主持
+
 <div style="width: 100%; overflow: hidden; margin-top: 20px; padding: 15px 0 10px 0; background-color: #ffffff; border-top: 1px solid #eee;">
   <!-- 图片预加载区域（隐藏） -->
   <div style="display: none;">
