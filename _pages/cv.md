@@ -266,8 +266,8 @@ About Me
 const photos = [
   { 
     url: "https://Zuojie-Li.github.io/files/M1.jpg", 
-    title: "泰安", 
-    desc: "东平湖" 
+    title: "曲阜", 
+    desc: "孔府" 
   },
   { 
     url: "https://Zuojie-Li.github.io/files/M3.jpg", 
@@ -286,8 +286,8 @@ const photos = [
   },
   { 
     url: "https://Zuojie-Li.github.io/files/M6.jpg", 
-    title: "北京", 
-    desc: "黄花阵" 
+    title: "曲阜", 
+    desc: "孔庙" 
   },
   { 
     url: "https://Zuojie-Li.github.io/files/M7.jpg", 
@@ -311,8 +311,8 @@ const photos = [
   },
   { 
     url: "https://Zuojie-Li.github.io/files/M10.jpg", 
-    title: "北京", 
-    desc: "圆明园" 
+    title: "绵阳", 
+    desc: "桃花岛" 
   }
 ];
 
